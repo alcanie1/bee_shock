@@ -1,0 +1,82 @@
+::Bees Statistics After Power Is Turned On::
+  
+            Bee1 stats: 
+        ======================================
+          Time spent on yellow area: 299.7 seconds
+          Time precentage on yellow area: 99.93331110370124%
+          Time spent on blue area: 0.2 seconds
+          Time precentage on blue area: 0.06668889629876626% 
+
+            
+            Bee2 stats: 
+        ======================================
+          Time spent on yellow area: 288.8333333333333 seconds
+          Time precentage on yellow area: 96.30988107146827%
+          Time spent on blue area: 11.066666666666666 seconds
+          Time precentage on blue area: 3.6901189285317333% 
+
+            
+            Bee3 stats: 
+        ======================================
+          Time spent on yellow area: 294.3 seconds
+          Time precentage on yellow area: 98.13271090363453%
+          Time spent on blue area: 5.6 seconds
+          Time precentage on blue area: 1.867289096365455% 
+
+            
+            Bee4 stats: 
+        ======================================
+          Time spent on yellow area: 288.23333333333335 seconds
+          Time precentage on yellow area: 96.10981438257197%
+          Time spent on blue area: 11.666666666666666 seconds
+          Time precentage on blue area: 3.890185617428031% 
+
+            
+            Bee5 stats: 
+        ======================================
+          Time spent on yellow area: 286.73333333333335 seconds
+          Time precentage on yellow area: 95.60964766033122%
+          Time spent on blue area: 13.166666666666666 seconds
+          Time precentage on blue area: 4.390352339668778% 
+
+            
+            Bee6 stats: 
+        ======================================
+          Time spent on yellow area: 286.6 seconds
+          Time precentage on yellow area: 95.56518839613204%
+          Time spent on blue area: 13.3 seconds
+          Time precentage on blue area: 4.434811603867956% 
+
+            
+            Bee7 stats: 
+        ======================================
+          Time spent on yellow area: 263.23333333333335 seconds
+          Time precentage on yellow area: 87.77370234522618%
+          Time spent on blue area: 36.666666666666664 seconds
+          Time precentage on blue area: 12.226297654773811% 
+
+            
+            Bee8 stats: 
+        ======================================
+          Time spent on yellow area: 299.9 seconds
+          Time precentage on yellow area: 100.0%
+          Time spent on blue area: 0.0 seconds
+          Time precentage on blue area: 0.0% 
+
+            
+            Bee9 stats: 
+        ======================================
+          Time spent on yellow area: 275.6666666666667 seconds
+          Time precentage on yellow area: 91.91952873179949%
+          Time spent on blue area: 24.233333333333334 seconds
+          Time precentage on blue area: 8.08047126820051% 
+
+            
+            Bee10 stats: 
+        ======================================
+          Time spent on yellow area: 289.9 seconds
+          Time precentage on yellow area: 96.66555518506169%
+          Time spent on blue area: 10.0 seconds
+          Time precentage on blue area: 3.334444814938313% 
+
+          
